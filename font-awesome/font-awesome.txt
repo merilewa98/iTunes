@@ -1,0 +1,34 @@
+<script src="https://kit.fontawesome.com/05f93572bc.js" crossorigin="anonymous"></script>
+
+<head>
+  <link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
+</head>
+<body>
+  <i class="fas fa-user"></i> <!-- uses solid style -->
+  <i class="far fa-user"></i> <!-- uses regular style -->
+  <i class="fal fa-user"></i> <!-- uses light style -->
+  <!--brand icon-->
+  <i class="fab fa-github-square"></i> <!-- uses brands style -->
+</body>
+
+<head>
+  <script defer src="/your-path-to-fontawesome/js/all.js"></script> <!--load all styles -->
+</head>
+<body>
+  <i class="fas fa-user"></i> <!-- uses solid style -->
+  <i class="far fa-user"></i> <!-- uses regular style -->
+  <i class="fal fa-user"></i> <!-- uses light style -->
+  <!--brand icon-->
+  <i class="fab fa-github-square"></i> <!-- uses brands style -->
+</body>
+
+<head>
+  <!-- Our project just needs Font Awesome Solid + Brands -->
+  <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
+  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
+  <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
+</head>
+<body>
+  <i class="fas fa-user"></i> <!-- uses solid style -->
+  <i class="fab fa-github-square"></i> <!-- uses brand style -->
+</body>
